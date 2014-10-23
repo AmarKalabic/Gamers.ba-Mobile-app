@@ -13,13 +13,13 @@ To Do
 
 List below shows what we plan to do in exact order.
 
-* Android app
-** Make an app actually, fix possible bugs
+- Android app
+ - Make an app actually, fix possible bugs
 
-* iOS app
-** Make an app actually, fix possible bugs
+- iOS app
+ - Make an app actually, fix possible bugs
 
-* Windows phone app
-** Make an app actually, fix possible bugs
+- Windows phone app
+ - Make an app actually, fix possible bugs
 
 
