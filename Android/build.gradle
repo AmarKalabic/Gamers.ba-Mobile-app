@@ -5,8 +5,8 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "ba.gamers.gamersba"
-        minSdkVersion 15
+        applicationId "ba.gamers.www.gamers"
+        minSdkVersion 12
         targetSdkVersion 20
         versionCode 1
         versionName "1.0"
@@ -21,4 +21,5 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:20.0.0'
 }
