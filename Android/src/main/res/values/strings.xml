@@ -4,5 +4,7 @@
     <string name="app_name">Gamers.ba</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Opcije</string>
+    <string name="button_text">Home</string>
+    <string name="button_text1">Refresh</string>
 
 </resources>
