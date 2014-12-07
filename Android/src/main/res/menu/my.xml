@@ -14,4 +14,10 @@
         android:drawableLeft="@drawable/reload_icon"
         android:onClick="reloadPage"
         app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_progress"
+        android:orderInCategory="100"
+        android:menuCategory="container"
+        android:showAsAction="always">
+    </item>
 </menu>

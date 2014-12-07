@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ba.gamers.www.gamers" >
+    package="ba.gamers.gamersba" >
     <uses-sdk android:minSdkVersion="7" />
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -18,6 +18,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".RealActivity.WebActivity" android:theme="@style/Theme.AppCompat">
+            <intent-filter>
+                <action android:name="android.accounts.AccountAuthenticator" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginScreen.Login" android:theme="@style/Theme.AppCompat"></activity>
+        <activity android:name=".NotificationReminder.ReminderServicePoruke"></activity>
     </application>
 
 </manifest>
