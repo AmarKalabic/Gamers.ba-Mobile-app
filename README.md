@@ -6,7 +6,7 @@ This is mobile application for local gamers community called GAMERS.ba. Our plan
 Regular info
 ===============
 
-There's just two of us working on it at the moment (myself and jovapeba). If you feel like you can help, please pull this repo on GitHub or make an application for our dev team to email: brix1996[at]hotmail.com (please include your CV).
+Project is dead and won't be maintained anymore.
 
 To Do
 ===============
